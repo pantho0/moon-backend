@@ -1,0 +1,11 @@
+{
+  "name": "moon-backend",
+  "version": "1.0.0",
+  "description": "an educational drive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pantho mashreky",
+  "license": "ISC"
+}
